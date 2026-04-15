@@ -1,9 +1,0 @@
-+ set -euo pipefail
-+ SRC=/home/pi/Documents/15minutes/gtfs_server/data
-+ REPO=/home/pi/Documents/15minutes/gtfs_server/gtfs_data_for_bot
-+ LOG=/home/pi/Documents/15minutes/gtfs_server/gtfs_data_for_bot/log.txt
-+ EMAIL=lev@15minutes.co.il
-+ cd /home/pi/Documents/15minutes/gtfs_server/gtfs_data_for_bot
-+ rsync -av /home/pi/Documents/15minutes/gtfs_server/data/ /home/pi/Documents/15minutes/gtfs_server/gtfs_data_for_bot/
-+ git diff --quiet
-+ exit 0
