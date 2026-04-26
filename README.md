@@ -11,7 +11,7 @@
 | stop_name          | שם תחנה | string  | Name of the stop as shown to passengers |
 | city_name          | שם רשות | string  | City or locality where the stop is located |
 
-## route_by_cuty.csv
+## route_by_city.csv
 | Column Name        | Column Name Heb | Type    | Description |
 |--------------------|---------|---------|-------------|
 | city_name          | שם רשות | string  | City or locality where the route operates (at least partially; may not reflect full route coverage) |
