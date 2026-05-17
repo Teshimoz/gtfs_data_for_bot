@@ -17,9 +17,9 @@ BASE_PATH = "/home/pi/Documents/15minutes/gtfs_server/gtfs_data_for_bot/"
 
 FILES = {
    
-    "stops_by_city.csv": "stops_by_city",
-     "routes_by_city.csv": "routes_by_city",
-     "global_data.csv": "global_data",
+    "bus_data.csv": "bus_data",
+     "lrt_data.csv": "lrt_data",
+     "train_data.csv": "train_data",
 }
 
 SPREADSHEET_ID = "1cqCKAW-kyk1UJVB4WawtG5pi6UaCh1D4flEw8RSHj6E"
