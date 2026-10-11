@@ -22,7 +22,9 @@ FILES = {
      "train_data.csv": "train_data",
 }
 
-SPREADSHEET_ID = "1cqCKAW-kyk1UJVB4WawtG5pi6UaCh1D4flEw8RSHj6E"
+SPREADSHEET_ID = Path(
+    "/home/pi/Documents/15minutes/gtfs_server/sheet_id.txt"
+).read_text().strip()
 CREDS_FILE = "/home/pi/creds/google_service_account.json"
 
 

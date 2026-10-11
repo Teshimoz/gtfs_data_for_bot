@@ -90,3 +90,31 @@
   warnings.warn(eol_message.format("3.9"), FutureWarning)
 /home/pi/.local/lib/python3.9/site-packages/google/oauth2/__init__.py:40: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
   warnings.warn(eol_message.format("3.9"), FutureWarning)
+/home/pi/.local/lib/python3.9/site-packages/google/auth/__init__.py:54: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
+  warnings.warn(eol_message.format("3.9"), FutureWarning)
+/home/pi/.local/lib/python3.9/site-packages/google/oauth2/__init__.py:40: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
+  warnings.warn(eol_message.format("3.9"), FutureWarning)
+/bin/sh: 1: /home/pi/Documents/15minutes/gtfs_server/gtfs_data_for_bot/upload_gtfs_to_sheets.py: Permission denied
+/home/pi/Documents/15minutes/gtfs_server/gtfs_data_for_bot/upload_gtfs_to_sheets.py: 2: import: not found
+/home/pi/Documents/15minutes/gtfs_server/gtfs_data_for_bot/upload_gtfs_to_sheets.py: 3: import: not found
+/home/pi/Documents/15minutes/gtfs_server/gtfs_data_for_bot/upload_gtfs_to_sheets.py: 4: import: not found
+from: too many arguments
+from: too many arguments
+/home/pi/Documents/15minutes/gtfs_server/gtfs_data_for_bot/upload_gtfs_to_sheets.py: 8: import: not found
+/home/pi/Documents/15minutes/gtfs_server/gtfs_data_for_bot/upload_gtfs_to_sheets.py: 9: import: not found
+/home/pi/Documents/15minutes/gtfs_server/gtfs_data_for_bot/upload_gtfs_to_sheets.py: 10: import: not found
+from: too many arguments
+from: too many arguments
+/home/pi/Documents/15minutes/gtfs_server/gtfs_data_for_bot/upload_gtfs_to_sheets.py: 15: BASE_PATH: not found
+/home/pi/Documents/15minutes/gtfs_server/gtfs_data_for_bot/upload_gtfs_to_sheets.py: 17: FILES: not found
+/home/pi/Documents/15minutes/gtfs_server/gtfs_data_for_bot/upload_gtfs_to_sheets.py: 19: lrt_data.csv:: not found
+/home/pi/Documents/15minutes/gtfs_server/gtfs_data_for_bot/upload_gtfs_to_sheets.py: 20: train_data.csv:: not found
+/home/pi/Documents/15minutes/gtfs_server/gtfs_data_for_bot/upload_gtfs_to_sheets.py: 21: Syntax error: "}" unexpected
+/home/pi/.local/lib/python3.9/site-packages/google/auth/__init__.py:54: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
+  warnings.warn(eol_message.format("3.9"), FutureWarning)
+/home/pi/.local/lib/python3.9/site-packages/google/oauth2/__init__.py:40: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
+  warnings.warn(eol_message.format("3.9"), FutureWarning)
+/home/pi/.local/lib/python3.9/site-packages/google/auth/__init__.py:54: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
+  warnings.warn(eol_message.format("3.9"), FutureWarning)
+/home/pi/.local/lib/python3.9/site-packages/google/oauth2/__init__.py:40: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
+  warnings.warn(eol_message.format("3.9"), FutureWarning)
